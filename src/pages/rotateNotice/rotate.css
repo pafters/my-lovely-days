@@ -1,0 +1,15 @@
+.rotate-notice {
+    width: 100dvw;
+    margin: 0 auto;
+    font-size: 6dvh;
+    text-align: center;
+    margin-top: 10dvh;
+
+}
+
+.rotate-container {
+    position: relative;
+    top: 15dvh;
+    left: 0;
+    right: 0;
+}

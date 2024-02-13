@@ -1,0 +1,16 @@
+.splash-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100dvh;
+}
+
+.splash-media {
+    margin: 0 auto;
+    width: 50dvw;
+    height: 50dvw;
+}
+
+.splash-notice {
+    font-size: 8dvw;
+}

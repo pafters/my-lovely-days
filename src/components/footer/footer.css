@@ -1,0 +1,12 @@
+.heart {
+    position: fixed;
+    bottom: -16dvw;
+    width: 16dvw;
+    height: 16dvw;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    display: flex;
+}

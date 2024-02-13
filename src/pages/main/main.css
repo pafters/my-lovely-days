@@ -1,0 +1,26 @@
+.main-message {
+    width: 100dvw;
+    text-align: center;
+    font-size: 9dvw;
+}
+
+.date {
+    width: 100dvw;
+    text-align: center;
+}
+
+.date-notice {
+    font-size: 5dvw;
+}
+
+.date-first-row {
+    margin-top: 3dvw;
+    font-weight: 600;
+    font-size: 20dvw;
+}
+
+.date-second-row {
+    margin-top: -15dvw;
+    font-weight: 600;
+    font-size: 20dvw;
+}
