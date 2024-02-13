@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my-lovely-days/static/css/main.62a433bc.css",
-    "main.js": "/my-lovely-days/static/js/main.a73f4577.js",
-    "static/js/787.92c7dc14.chunk.js": "/my-lovely-days/static/js/787.92c7dc14.chunk.js",
+    "main.js": "/my-lovely-days/static/js/main.730773fd.js",
+    "static/js/787.a088a7b1.chunk.js": "/my-lovely-days/static/js/787.a088a7b1.chunk.js",
     "static/media/tkthao219-peach.gif": "/my-lovely-days/static/media/tkthao219-peach.d1245fcb7b985434673d.gif",
     "static/media/cute-dancing.gif": "/my-lovely-days/static/media/cute-dancing.aa1d2d4c602cb0a06cd8.gif",
     "static/media/tkthao219-peach1.gif": "/my-lovely-days/static/media/tkthao219-peach1.ed947f9ae36725f868d2.gif",
@@ -23,11 +23,11 @@
     "static/media/heart.png": "/my-lovely-days/static/media/heart.2216bfd43c62bc4c473c.png",
     "index.html": "/my-lovely-days/index.html",
     "main.62a433bc.css.map": "/my-lovely-days/static/css/main.62a433bc.css.map",
-    "main.a73f4577.js.map": "/my-lovely-days/static/js/main.a73f4577.js.map",
-    "787.92c7dc14.chunk.js.map": "/my-lovely-days/static/js/787.92c7dc14.chunk.js.map"
+    "main.730773fd.js.map": "/my-lovely-days/static/js/main.730773fd.js.map",
+    "787.a088a7b1.chunk.js.map": "/my-lovely-days/static/js/787.a088a7b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62a433bc.css",
-    "static/js/main.a73f4577.js"
+    "static/js/main.730773fd.js"
   ]
 }
