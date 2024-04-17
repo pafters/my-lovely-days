@@ -1,6 +1,8 @@
 {
-  "homepage": "https://pafters.github.io/lovely-days",
-  "name": "relationshipcalc",
+  "homepage": "https://pafters.github.io/my-lovely-days",
+  "name": "my-lovely-days",
+  "displayName": "My Lovely Days",
+  "icon": "public/logo.png",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
